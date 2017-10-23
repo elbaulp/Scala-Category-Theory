@@ -2,7 +2,7 @@
 
 [Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) great book on *Category Theory* implemented in scala, with Property Tests.
 
-I will be posing my own take on category theory as I read through the book, think of it as a sort of summary of the book, with code explanations: **Link to first post comming soon**.
+I will be posing my own take on category theory as I read through the book, think of it as a sort of a summary of the book, with code explanations: **Link to first post comming soon**.
 
 # Other resources
 
