@@ -9,5 +9,7 @@ lazy val root = (project in file(".")).
     )),
     name := "Category Theory",
     logBuffered in Test := false,
-    libraryDependencies ++= backendDeps
+    libraryDependencies ++= backendDeps,
+    resolvers += Resolver.sonatypeRepo("releases"),
+    addCompilerPlugin("org.spire-math" %% "kind-projector" % "0.9.4")
   )
