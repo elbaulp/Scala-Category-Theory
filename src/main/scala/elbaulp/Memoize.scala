@@ -31,3 +31,7 @@ case class Memoize[A, B](f: A => B) {
   private[this] val values: mutable.Map[A,B] = mutable.Map.empty
   def apply(x: A) = values getOrElseUpdate(x, f(x))
 }
+
+// Challenge 2.5: How many different functions are there from Bool to Bool? Can you implement them all?
+// As Bool can only take 2 values, From bool -> Bool you can only get 4 different funtions (2^2)
+// Callenge 2.6

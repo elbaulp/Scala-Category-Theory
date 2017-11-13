@@ -6,7 +6,10 @@ I will be posing my own take on category theory as I read through the book, thin
 
 ## Table of Contents
 
-- [Scala Category Theory - Composition](https://elbauldelprogramador.com/en/scala-category-theory-composition/)
+You can check the Table of Contents in my blog: [Scala Category Theory - Table of Contents](https://elbauldelprogramador.com/en/scala-category-theory/)
+
+- [Composition](https://elbauldelprogramador.com/en/scala-category-theory-composition/)
+- [Types & Functions](https://elbauldelprogramador.com/en/scala-category-theory-types/)
 
 # Other resources
 
