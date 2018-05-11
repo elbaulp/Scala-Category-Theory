@@ -33,7 +33,7 @@ There might be a little voice inside that tells you you're not ready; that you n
 
 I assure you, that's not the case.
 
-This project has some clear Contribution Guidelines and expectations that you can read here (link).
+This project has some clear Contribution Guidelines and expectations that you can read here ([link](.github/CONTRIBUTING.md)).
 
 The contribution guidelines outline the process that you'll need to follow to get a patch merged. By making expectations and process explicit, I hope it will make it easier for you to contribute.
 
